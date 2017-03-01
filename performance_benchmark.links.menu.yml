@@ -1,0 +1,5 @@
+performance_benchmark.overview:
+  title: 'Performance Benchmark'
+  parent: system.admin_reports
+  description: 'Server-side performance benchmark'
+  route_name: performance_benchmark.overview

@@ -1,0 +1,7 @@
+performance_benchmark.overview:
+  path: '/admin/reports/performance_benchmark'
+  defaults:
+    _title: 'Performance Benchmark'
+    _controller: 'Drupal\performance_benchmark\Controller\PerformanceBenchmarkController::overview'
+  requirements:
+    _permission: 'access site reports'

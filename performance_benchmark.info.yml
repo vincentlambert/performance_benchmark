@@ -1,0 +1,5 @@
+name: Performance Benchmark
+description: 'Benchmark Script lets you run PHP performance benchmark.'
+package: Administration
+type: module
+core: 8.x
