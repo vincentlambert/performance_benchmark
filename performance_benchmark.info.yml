@@ -1,4 +1,4 @@
-name: Performance Benchmark
+name: Simple Performance Benchmark
 description: 'Benchmark Script lets you run PHP performance benchmark.'
 package: Administration
 type: module

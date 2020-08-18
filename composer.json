@@ -1,14 +1,7 @@
 {
-    "name": "performance_benchmark",
-    "type": "drupal-module",
-    "description": "Performance Benchmark Testing",
-    "keywords": [
-    ],
-    "homepage": "https://www.drupal.org/project/widget_per_role",
-    "minimum-stability": "dev",
-    "support": {
-        "issues": "https://www.drupal.org/project/issues/widget_per_role",
-        "source": "http://cgit.drupalcode.org/widget_per_role"
-    },
-    "require": { }
+  "name": "vincentlambert/performance_benchmark",
+  "type": "drupal-module",
+  "description": "A Simple Performance Benchmark",
+  "keywords": ["Drupal"],
+  "require": { }
 }
